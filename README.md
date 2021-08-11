@@ -3,8 +3,8 @@
 I'm a software engineer and very pasionate with VoIP Platforms.   
 
 - 🔭 I’m currently working on J2 Global
-- 🌱 I’m currently learning how to learn
-- 👯 I’m looking to collaborate on Open Source Projects
+- 🌱 I keep learning how to learn
+- 👯 Still looking for a good idea
 - 💬 Ask me about 
   - :coffee: Java (Vertx, Quarkus, Spring Boot) 
   - :whale2: Containers (Docker, Podman, Skopeo, Buildah) 
@@ -12,6 +12,7 @@ I'm a software engineer and very pasionate with VoIP Platforms.
   - :cloud: AWS
   - Ansible
   - :phone: FreeSwitch, Asterisk, Kamailio
-  - ETL Data Integration (Pentaho) 
-- 📫 How to reach me [@hectorvent](https://twitter.com/hectorvent)
-- ☕ A professional coffee drinker.
+  - ETL Data Integration (Pentaho)
+- :mailbox: How to reach me [@hectorvent](https://twitter.com/hectorvent)
+- :coffee: A professional coffee drinker.
+- :books: [Java tutor](https://www.wyzant.com/Tutors/hectorvent)
