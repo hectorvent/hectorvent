@@ -12,7 +12,7 @@ I'm a software engineer and very pasionate with VoIP Platforms.
   - :cloud: AWS
   - Ansible
   - :phone: FreeSwitch, Asterisk, Kamailio
-  - ETL Data Integration (Pentaho)
+  - ETL Data Integration (Pentaho), Debezium
 - :mailbox: How to reach me [@hectorvent](https://twitter.com/hectorvent)
 - :coffee: A professional coffee drinker.
 - :books: [Java tutor](https://www.wyzant.com/Tutors/hectorvent)
