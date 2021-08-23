@@ -2,7 +2,7 @@
 
 I'm a software engineer and very pasionate with VoIP Platforms.   
 
-- 🔭 I’m currently working on J2 Global
+- 🔭 I’m currently working on J2 Global, and  [Java tutor](https://www.wyzant.com/Tutors/hectorvent)
 - 🌱 I keep learning how to learn
 - 👯 Still looking for a good idea
 - 💬 Ask me about 
@@ -15,4 +15,3 @@ I'm a software engineer and very pasionate with VoIP Platforms.
   - ETL Data Integration (Pentaho), Debezium
 - :mailbox: How to reach me [@hectorvent](https://twitter.com/hectorvent)
 - :coffee: A professional coffee drinker.
-- :books: [Java tutor](https://www.wyzant.com/Tutors/hectorvent)
