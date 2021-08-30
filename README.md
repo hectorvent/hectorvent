@@ -11,7 +11,7 @@ I'm a software engineer and very pasionate with VoIP Platforms.
   - :penguin: Linux
   - :cloud: AWS
   - Ansible
-  - :phone: FreeSwitch, Asterisk, Kamailio
+  - :phone: FreeSwitch, Asterisk, and Kamailio
   - ETL Data Integration (Pentaho), Debezium
 - :mailbox: How to reach me [@hectorvent](https://twitter.com/hectorvent)
 - :coffee: A professional coffee drinker.
