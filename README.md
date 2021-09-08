@@ -2,7 +2,7 @@
 
 I'm a software engineer and very pasionate with VoIP Platforms.   
 
-- 🔭 I’m currently working on J2 Global, and  [Java tutor](https://www.wyzant.com/Tutors/hectorvent)
+- 🔭 I am currently working on J2 Global, and  [Java tutor](https://www.wyzant.com/Tutors/hectorvent)
 - 🌱 I keep learning how to learn
 - 👯 Still looking for a great idea
 - 💬 Ask me about 
