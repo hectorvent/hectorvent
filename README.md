@@ -9,7 +9,7 @@ I'm a software engineer and very pasionate with VoIP Platforms.
   - :coffee: Java (Vertx, Quarkus, Spring Boot) and Jakarta (JEE)
   - :whale2: Containers ([Podman](https://podman.io/), [Skopeo](https://github.com/containers/skopeo), Buildah, Docker) 
   - :penguin: Linux
-  - :cloud: AWS
+  - :cloud: AWS, IBM Cloud
   - Ansible
   - :phone: FreeSwitch, Asterisk, and Kamailio
   - ETL Data Integration (Pentaho), Debezium
