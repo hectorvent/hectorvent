@@ -6,7 +6,7 @@ I'm a software engineer and very pasionate with VoIP Platforms.
 - 🌱 I keep learning how to learn
 - 👯 Still looking for a great idea
 - 💬 Ask me about 
-  - :coffee: Java ([Vertx.io](https://vertx.io/), [Quarkus](https://quarkus.io/), Spring Boot) and Jakarta (JEE)
+  - :coffee: Java ([Vertx.io](https://vertx.io/), [Quarkus](https://quarkus.io/), [Spring Boot](https://spring.io/projects/spring-boot)) and Jakarta (JEE)
   - :whale2: Containers ([Podman](https://podman.io/), [Skopeo](https://github.com/containers/skopeo), [Buildah](https://buildah.io/), Docker) 
   - :penguin: Linux
   - :cloud: AWS, IBM Cloud
