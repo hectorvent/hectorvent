@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineer and very pasionate with VoIP Platforms.   
+Founder and Software Engineer at [Alphnology](https://alphnology.com)
+
+I'm very pasionate with VoIP Platforms.   
 
 - 🔭 I am currently working on [Consensus Cloud Solutions](https://www.consensus.com/), and  [Java tutor](https://www.wyzant.com/Tutors/hectorvent)
 - 🌱 I keep learning how to learn
