@@ -9,11 +9,11 @@ I'm very pasionate with VoIP Platforms.
 - 👯 Still looking for a great idea
 - 💬 Ask me about 
   - :coffee: Java ([Vertx.io](https://vertx.io/), [Quarkus](https://quarkus.io/), [Spring Boot](https://spring.io/projects/spring-boot)) and Jakarta (JEE)
-  - :whale2: Containers ([Podman](https://podman.io/), [Skopeo](https://github.com/containers/skopeo), [Buildah](https://buildah.io/), Docker) 
+  - :whale2: Containers ([Podman](https://podman.io/), [Skopeo](https://github.com/containers/skopeo), [Buildah](https://buildah.io/), [Docker](https://www.docker.com/)) 
   - :penguin: Linux
   - :cloud: AWS, IBM Cloud
   - Ansible
   - :phone: FreeSwitch, Asterisk, and Kamailio
-  - ETL Data Integration (Pentaho), Debezium
+  - ETL Data Integration (Pentaho), [Debezium](https://debezium.io/)
 - :mailbox: How to reach me [@hectorvent](https://twitter.com/hectorvent)
 - :coffee: A professional coffee drinker.
