@@ -13,7 +13,7 @@ I'm very pasionate with VoIP Platforms.
   - :penguin: Linux
   - :cloud: AWS, IBM Cloud
   - Ansible, Terraform
-  - :phone: [FreeSwitch](https://freeswitch.org/confluence/display/FREESWITCH/Community), Asterisk, and [Kamailio](https://www.kamailio.org/w/)
+  - :phone: [FreeSwitch](https://freeswitch.org/confluence/display/FREESWITCH/Community), [Asterisk](https://www.asterisk.org/), and [Kamailio](https://www.kamailio.org/w/)
   - ETL Data Integration (Pentaho), [Debezium](https://debezium.io/)
 - :mailbox: How to reach me [@hectorvent](https://twitter.com/hectorvent)
 - :coffee: A professional coffee drinker.
