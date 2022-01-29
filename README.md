@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Founder and Software Engineer at [Alphnology](https://alphnology.com) (webpage in progrees)
+co-Founder and Software Engineer at [Alphnology](https://alphnology.com) (webpage in progrees)
 
 I'm very pasionate with VoIP Platforms.   
 
