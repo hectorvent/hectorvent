@@ -4,7 +4,7 @@ Co-Founder and Software Engineer at [Alphnology](https://alphnology.com)
 
 I'm very pasionate with VoIP Platforms.   
 
-- 🔭 I am currently working on [Consensus Cloud Solutions](https://www.consensus.com/), and as [Java tutor](https://www.wyzant.com/Tutors/hectorvent)
+- 🔭 I am currently working as Lead Software Engineer [Consensus Cloud Solutions](https://www.consensus.com/), and as [Java tutor](https://www.wyzant.com/Tutors/hectorvent)
 - 🌱 I keep learning how to learn
 - 👯 Still looking for a great idea
 - 💬 Ask me about 
