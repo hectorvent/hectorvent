@@ -37,7 +37,6 @@ Floci is a lightweight alternative for local AWS development — no paywalled fe
 
 - 🔭 Lead Software Engineer at **[Consensus Cloud Solutions](https://www.consensus.com/)**
 - 🏗️ Building **[Floci](https://floci.io)** — a faster, lighter AWS local emulator
-- 🤝 Co-founder at **[Alphnology](https://alphnology.com)**
 - 📚 Java tutor on **[Wyzant](https://www.wyzant.com/Tutors/hectorvent)**
 
 ---
